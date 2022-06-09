@@ -1,0 +1,9 @@
+nav{
+	background-color: #752995;
+    padding: 10px;
+    height: 50px;
+}
+
+.active{
+    color: #FFFFFF;
+}
